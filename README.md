@@ -2,6 +2,12 @@
 
 Create an application that uses actions and reducers to show content for a book list
 
+---
+
+ ### View the finished project: http://redux-book-list.surge.sh
+
+---
+
 * To get started you will need to use `create-react-app` to quickly scaffold a project. You should migrate your components into a `components` folder in the `src` directory and the styles into a `styles` folder in the `src` directory. Link up all pages to make sure they working and test using `npm run start` in the console, use Ctrl+c to exit.
 
 * You will need use `npm install --save redux` and `npm install --save react-redux` in the terminal to save Redux to your project dependencies and make it available for import.
